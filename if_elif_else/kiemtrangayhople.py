@@ -20,4 +20,4 @@ elif thang == 2:
         if ngay > 28:
             print('ngày không hợp lệ')
             exit()
-print(f'ngày {ngay} tháng {thang} năm {nam} là ngày hợp lệ')
+print(f'ngày {ngay} tháng {thang} năm {nam} là ngày hợp lệ');
