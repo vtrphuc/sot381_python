@@ -1,1 +1,5 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyOw7eG3b9EcGwtw1CU43hT+"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":2,"metadata":{"colab":{"base_uri":"https://localhost:8080/"},"id":"k3LXSL8QrnAH","executionInfo":{"status":"ok","timestamp":1765176115600,"user_tz":-420,"elapsed":2646,"user":{"displayName":"Phúc Võ Trường","userId":"09972057254439762346"}},"outputId":"49808ba2-75c9-4fce-bc1a-79c1270a9a4b"},"outputs":[{"output_type":"stream","name":"stdout","text":["nhập số thứ nhất: 3\n","nhập số thứ hai: 3\n","nhập số thứ ba: 3\n","3.0\n"]}],"source":["so1 = int(input('nhập số thứ nhất: '))\n","so2 = int(input('nhập số thứ hai: '))\n","so3 = int(input('nhập số thứ ba: '))\n","kq = (so1 + so2 + so3) / 3\n","print(kq)"]}]}
+so1 = int(input('nhập số thứ nhất: '))
+so2 = int(input('nhập số thứ hai: '))
+so3 = int(input('nhập số thứ ba: '))
+kq = (so1 + so2 + so3) / 3
+print(kq)
