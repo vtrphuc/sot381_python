@@ -8,4 +8,4 @@ if a > b and a > c :
 elif b > a and b > c :
     print("số lớn nhất là" ,b)
 else:
-    print("số lớn nhất là" ,c);
+    print("số lớn nhất là" ,c)
